@@ -51,6 +51,12 @@ Lighthouse, lab test of the live site, September 2026.
   </tr>
 </table>
 
+<img src="media/inner-1.webp" alt="Research page">
+<sub>Research page</sub>
+
+<img src="media/inner-2.webp" alt="Conference page">
+<sub>Conference page</sub>
+
 ---
 
 <sub>Built by [D. Svilenković](https://svilenkovic.com).</sub>

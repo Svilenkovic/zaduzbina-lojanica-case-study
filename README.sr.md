@@ -51,6 +51,12 @@ Lighthouse, laboratorijsko merenje živog sajta, septembar 2026.
   </tr>
 </table>
 
+<img src="media/inner-1.webp" alt="Strana o istraživanjima">
+<sub>Strana o istraživanjima</sub>
+
+<img src="media/inner-2.webp" alt="Strana naučne konferencije">
+<sub>Strana naučne konferencije</sub>
+
 ---
 
 <sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>
